@@ -9,7 +9,7 @@ Skills: UX UI / React Jss / TailwindCss / MySQL / JS / HTML / CSS / C++ / Python
 
 - 📫 How to reach me: Gmail: amrahimtiaz@gmail.com 
 
-[<img src='https://mir-s3-cdn-cf.behance.net/projects/808/d98bb1177572279.Y3JvcCw4OTMsNjk5LDY0LDA.png'> 
+[<img src='https://cdn.dribbble.com/userupload/9274401/file/original-1b5388a0148c4bcf83c14a7e22611327.png?resize=1024x662'> 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AmrahImtiaz)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/amrahimtiaz//)  
 
